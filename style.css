@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(rgb(221, 138, 138), rgb(98, 165, 191));
+    font-family: courier;
+    font: white;
+}
+
+.buttonone{
+    color: rgb(109, 181, 146);
+    font: white;
+}
